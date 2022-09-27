@@ -9,7 +9,7 @@
 
 ### Getting Started
 
-Make sure you load the Neo4j Dump file from here: and have Neo4j with GDS 2.x running. 
+Make sure you load the Neo4j Dump file from [this folder](https://drive.google.com/drive/folders/1LaNFObKnZb1Ty8T7kPLCYlXDUlHU7FGa?usp=sharing) and have Neo4j with GDS 2.x running. 
 
 Then for the notebook, Either start locally or [![open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neo4j-product-examples/training-graph-data-science/blob/main/training-fraud-detection-with-p2p.ipynb) .  
 
