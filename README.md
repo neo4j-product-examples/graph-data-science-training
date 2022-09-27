@@ -1,1 +1,1 @@
-# training-graph-data-science
+# Graph Data Science Training
