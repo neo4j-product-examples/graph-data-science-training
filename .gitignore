@@ -1,6 +1,7 @@
 .DS_Store
 data/
 scratch/
+archive/
 .idea/
 .ipynb_checkpoints/
 secrets.json
